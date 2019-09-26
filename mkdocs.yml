@@ -1,4 +1,7 @@
-site_name: ISMAEL
+site_name: Tutecnoinfor
+site_description: 'El sitio de la informática'
+site_author: 'Ismael Santiago Estévez'
+site_url: ''
 
 nav:
   - Inicio: 'index.md'

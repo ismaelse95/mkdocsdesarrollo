@@ -6,7 +6,7 @@ Enlace para visitar la página tutecnoinfor [Tutecnoinfor](https://tutecnoinfor.
 
 Bienvenido al blog InfoTecno donde encontraras soluciones a posibles errores en servidores linux.
 
-Mi nombre es Ismael Santiago estudio en IES Gonzalo Nazareno y estoy en 2º Grado medio (Técnico en Sistema microinformático y redes).
+Mi nombre es Ismael Santiago estudio en IES Gonzalo Nazareno y estoy en 1º Grado superior (ASIR).
 
 En este blog podrás encontrar practicas que se harán en maquinas virtuales (Virtualbox). Las practicas tendran el siguiente escenario:
 
