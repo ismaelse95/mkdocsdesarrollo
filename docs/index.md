@@ -13,6 +13,4 @@ En este blog podrás encontrar practicas que se harán en maquinas virtuales (Vi
 Una maquina servidora con Debian 8 (Esta maquina tendrá dos tarjeta de red una que saldrá a Internet y otra para la red interna).
 Dos maquinas clientes una con Windows 7 y la otra con Debian 8 (Estas dos maquinas tendrán red interna y estarán conectada a la maquina servidora).
 
-## ESTO ES UNA PRUEBA DE SCRIPT.
-
 ## ESTO ES UNA PRUEBA DE SCRIPT 2.
