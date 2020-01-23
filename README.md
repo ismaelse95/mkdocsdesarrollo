@@ -1,6 +1,6 @@
 # MkDocs Desarrollo
 
-Página de desarrollo sobre MkDocs.
+Página de desarrollo sobre MkDocs, también pasaremos a crear nuestra página con integración continua.
 
 ## TAREA 1
 
